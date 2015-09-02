@@ -17,8 +17,7 @@ http://docs.getpelican.com/en/3.6.3/index.html
 - 生成pelican目录,运行  
   `pelican-quickstart`
 - 创建一篇文章  
-    Title: My First Review  
-	Date: 2010-12-03 10:20  
-	Category: Review  
-
-	Following is a review of my favorite mechanical keyboard.
+  `Title: My First Review`  
+  `Date: 2010-12-03 10:20`  
+  `Category: Review`  
+  `Following is a review of my favorite mechanical keyboard.`

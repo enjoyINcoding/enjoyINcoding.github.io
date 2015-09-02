@@ -14,11 +14,9 @@
 &lt;ul&gt;
 &lt;li&gt;生成pelican目录,运行&lt;br /&gt;
 &lt;code&gt;pelican-quickstart&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;创建一篇文章&lt;br /&gt;
-    Title: My First Review&lt;br /&gt;
-    Date: 2010-12-03 10:20&lt;br /&gt;
-    Category: Review  &lt;/p&gt;
-&lt;p&gt;Following is a review of my favorite mechanical keyboard.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</summary></entry><entry><title>zjz</title><link href="/articles/2013/04/18/zjz.html" rel="alternate"></link><updated>2013-04-18T00:00:00+08:00</updated><author><name>Jianzhi Zhang</name></author><id>tag:,2013-04-18:articles/2013/04/18/zjz.html</id><summary type="html">&lt;p&gt;adjfklajdsklfjasldjflkjsdalfj&lt;/p&gt;</summary></entry></feed>
+&lt;li&gt;创建一篇文章&lt;br /&gt;
+&lt;code&gt;Title: My First Review&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;Date: 2010-12-03 10:20&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;Category: Review&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;Following is a review of my favorite mechanical keyboard.&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry></feed>

@@ -14,11 +14,9 @@
 &lt;ul&gt;
 &lt;li&gt;生成pelican目录,运行&lt;br /&gt;
 &lt;code&gt;pelican-quickstart&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;创建一篇文章&lt;br /&gt;
-    Title: My First Review&lt;br /&gt;
-    Date: 2010-12-03 10:20&lt;br /&gt;
-    Category: Review  &lt;/p&gt;
-&lt;p&gt;Following is a review of my favorite mechanical keyboard.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jianzhi Zhang</dc:creator><pubDate>Wed, 02 Sep 2015 00:00:00 +0800</pubDate><guid>tag:,2015-09-02:articles/2015/09/02/shi-yong-pelicangithubda-jian-ge-ren-zhu-ye.html</guid></item><item><title>zjz</title><link>/articles/2013/04/18/zjz.html</link><description>&lt;p&gt;adjfklajdsklfjasldjflkjsdalfj&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jianzhi Zhang</dc:creator><pubDate>Thu, 18 Apr 2013 00:00:00 +0800</pubDate><guid>tag:,2013-04-18:articles/2013/04/18/zjz.html</guid></item></channel></rss>
+&lt;li&gt;创建一篇文章&lt;br /&gt;
+&lt;code&gt;Title: My First Review&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;Date: 2010-12-03 10:20&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;Category: Review&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;Following is a review of my favorite mechanical keyboard.&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jianzhi Zhang</dc:creator><pubDate>Wed, 02 Sep 2015 00:00:00 +0800</pubDate><guid>tag:,2015-09-02:articles/2015/09/02/shi-yong-pelicangithubda-jian-ge-ren-zhu-ye.html</guid></item></channel></rss>
