@@ -9,7 +9,6 @@ SITEURL = ''
 THEME = 'Casper2Pelican'
 
 PATH = 'content'
-OUTPUT_PATH = '/'
 
 ARTICLE_URL = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 ARTICLE_SAVE_AS = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
