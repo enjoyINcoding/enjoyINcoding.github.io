@@ -19,4 +19,12 @@
 &lt;code&gt;Date: 2010-12-03 10:20&lt;/code&gt;&lt;br /&gt;
 &lt;code&gt;Category: Review&lt;/code&gt;&lt;br /&gt;
 &lt;code&gt;Following is a review of my favorite mechanical keyboard.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;将文件保存为md文件，放入content目录下&lt;/li&gt;
+&lt;li&gt;执行make html&lt;/li&gt;
+&lt;li&gt;pelican会将生成的页面放入output目录（output目录为默认目录）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;将网站发布到github&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;在github创建repository，和自己的用户名称一样&lt;/li&gt;
+&lt;li&gt;将本地output文件夹里的内容push到repository&lt;/li&gt;
 &lt;/ul&gt;</summary></entry></feed>

@@ -21,3 +21,10 @@ http://docs.getpelican.com/en/3.6.3/index.html
   `Date: 2010-12-03 10:20`  
   `Category: Review`  
   `Following is a review of my favorite mechanical keyboard.`
+- 将文件保存为md文件，放入content目录下
+- 执行make html
+- pelican会将生成的页面放入output目录（output目录为默认目录）
+
+###将网站发布到github###
+- 在github创建repository，和自己的用户名称一样
+- 将本地output文件夹里的内容push到repository
